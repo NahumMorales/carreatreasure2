@@ -20,9 +20,9 @@ function preload(){
   
   //gover=gameOver.png;
   
-  gameOver.png=Load();
+  //gameOver.png=Load();
   
-  //gover = loadImage("gameOver.png");
+  gover = loadImage("gameOver.png");
 }
 
 function setup(){
